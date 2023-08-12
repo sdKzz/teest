@@ -1,5 +1,5 @@
-function Home () {
-    return <h1>Mãezinha, eu te amo! A senhora poderia fazer um pix?</h1>
+function Home() {
+  return <h1>Primeiro site para programar</h1>;
 }
 
-export default Home; 
+export default Home;
